@@ -23,11 +23,3 @@ Mi experiencia con **Node.js** me permite diseñar e implementar *pipelines* efi
 | **Bases de Datos & SQL** | **MySQL** (Experiencia Sólida), Diseño de Esquemas, Manejo Avanzado de *Querys*, Integridad y Privilegios. |
 
 ---
-
-Este README ahora:
-1.  **Alinea el objetivo** con el rol de Analista BI Jr.
-2.  **Destaca** de forma inmediata **Node.js, Python, Machine Learning y React**.
-3.  **Mapea** las habilidades *backend* (Node.js, SQL) al contexto de **Data Engineering/ETL**.
-4.  **Presenta** el proyecto de **Churn Prediction** como la prueba de concepto para la oferta laboral.
-
-Una vez que subas este README a tu GitHub, ¿quieres que te ayude a revisar cómo se ve tu repositorio con el código del proyecto de Churn, o tienes otra sección que te gustaría mejorar?
