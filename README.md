@@ -1,11 +1,3 @@
-# JUAN PABLO ORTIZ BALLINA
-
-¡Por supuesto! El **README** de GitHub es tan importante como el CV para un rol técnico. Hay que transformarlo de un perfil de **Analista de Seguridad** a uno de **Analista BI Jr.**, destacando específicamente las habilidades de la oferta: **Node.js, React y Machine Learning**.
-
-Aquí tienes el README reescrito y optimizado para el puesto de Analista BI Jr.:
-
----
-
 ## 🚀 JUAN PABLO ORTIZ BALLINA
 
 ## Analista BI Jr. & Data Engineering (Node.js Focus)
