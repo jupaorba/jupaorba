@@ -1,25 +1,26 @@
-## 🚀 JUAN PABLO ORTIZ BALLINA
 
-## Analista BI Jr. & Data Engineering (Node.js Focus)
+# JUAN PABLO ORTIZ BALLINA
 
-### 🙋‍♂️ Perfil Profesional
+## Security Analyst Jr
 
-Ingeniero con una sólida formación en **desarrollo de sistemas *backend* (Node.js)** y bases de datos, haciendo una transición enfocada a la **Inteligencia de Negocios (BI)** y el análisis predictivo.
+### 🙋‍♂️ About Me
 
-Mi experiencia con **Node.js** me permite diseñar e implementar *pipelines* eficientes de **ETL** (Extracción, Transformación, Carga) y asegurar la **integridad de los datos** desde la fuente. Me especializo en la aplicación de técnicas de **Machine Learning (ML)** y **análisis estadístico** para transformar datos brutos en *insights* accionables.
+Software Engineer transitioning my strong background in **Systems Development (Backend, Linux)** towards a career in **Cybersecurity Operations and Analysis**.
 
-**Mi objetivo es fusionar la eficiencia del desarrollo *backend* con el análisis de datos para construir soluciones robustas que impulsen la toma de decisiones estratégicas en un entorno BI.**
+I am actively preparing for the **CompTIA Security+** certification, focusing on applying foundational security principles, conducting effective vulnerability assessments, and performing incident triage based on data correlation. My technical mindset and experience in programming allow me to build, secure, and analyze systems effectively.
+
+**My goal is to leverage my analytical skills to protect organizational assets by being the first line of defense in a Security Operations Center (SOC).**
 
 ---
 
-### 🛠️ Habilidades Técnicas Clave
+### 🛠️ Key Skills & Technologies
 
-| Dominio | Habilidades |
+| Domain | Skills |
 | :--- | :--- |
-| **Inteligencia de Negocios (BI)** | Ciclo completo ETL, Limpieza y Normalización de Datos, Diseño de Data Warehouse (Conceptos), KPI Monitoring, Lógica de Negocio. |
-| **Data Engineering & Backend** | **Node.js** (Scripts ETL y API), Express, **Python** (Pandas, NumPy, Scikit-learn), Shell Scripting, **Git/GitHub**. |
-| **Machine Learning & Analytics**| Modelos de Clasificación (Churn Prediction), Regresión, Análisis Exploratorio de Datos (EDA), Validación de Modelos (Métricas). |
-| **Visualización & Frontend** | **React** (Capacidad de Aprendizaje Rápido/Proyectos), JavaScript/TypeScript, Librerías de Gráficos (Chart.js, D3.js Concepts). |
-| **Bases de Datos & SQL** | **MySQL** (Experiencia Sólida), Diseño de Esquemas, Manejo Avanzado de *Querys*, Integridad y Privilegios. |
+| **Security Concepts** | CompTIA Security+ Domains, Hardening, Least Privilege Principle, Risk Assessment, Encryption, Incident Response Lifecycle, Access Control. |
+| **Operating Systems** | Linux (Ubuntu/CLI), Windows Security, Virtualization (VMware/VirtualBox). |
+| **Security Tools** | Nmap, UFW (Firewall), SIEM Concepts, Wireshark (Basic Analysis). |
+| **Programming & Scripting** | Python (Scripting for Automation/Analysis), Node.js, Bash, MySQL (Data Log Management). |
+| **Soft Skills** | Problem Resolution, Team Leadership, Documentation, Continuous Learning. |
 
----
+
