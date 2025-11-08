@@ -1,11 +1,11 @@
 
 # JUAN PABLO ORTIZ BALLINA
 
+Software Engineer transitioning my strong background in **Systems Development (Backend, Linux)** towards a career in **Cybersecurity Operations and Analysis**.
+
 ## Security Analyst Jr
 
 ### 🙋‍♂️ About Me
-
-Software Engineer transitioning my strong background in **Systems Development (Backend, Linux)** towards a career in **Cybersecurity Operations and Analysis**.
 
 I am actively preparing for the **CompTIA Security+** certification, focusing on applying foundational security principles, conducting effective vulnerability assessments, and performing incident triage based on data correlation. My technical mindset and experience in programming allow me to build, secure, and analyze systems effectively.
 
