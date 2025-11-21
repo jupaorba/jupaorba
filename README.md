@@ -3,7 +3,7 @@
 
 Software Engineer transitioning my strong background in **Systems Development (Backend, Linux)** towards a career in **Cybersecurity Operations and Analysis**.
 
-## Security Analyst Jr
+## Software Engineer & Security Analyst Jr
 
 ### 🙋‍♂️ About Me
 
