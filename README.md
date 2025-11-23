@@ -23,8 +23,6 @@ I am actively preparing for the **CompTIA Security+** certification, focusing on
 | **Programming & Scripting** | Python (Scripting for Automation/Analysis), Node.js, Bash, MySQL (Data Log Management). |
 | **Soft Skills** | Problem Resolution, Team Leadership, Documentation, Continuous Learning. |
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jupaorba&label=Profile%20views&color=0e75b6&style=flat" alt="jupaorba" /> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
